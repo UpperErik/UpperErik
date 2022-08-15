@@ -1,3 +1,15 @@
+### Hi there 👋, my name is Erik
+#### Web Developer
+Im student, passionate about learn more of web development
+
+Skills:  JS / HTML / CSS / Sass / Bootstrap / 
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning JS, React, Azure, Digital Ocean, bash, linux 
+
+
+
+
 
 <!--
 **UpperErik/UpperErik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
